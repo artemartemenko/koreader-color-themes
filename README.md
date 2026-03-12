@@ -45,39 +45,8 @@ Each of the four submenus shows the same list of presets, grouped by brightness,
 
 ## Built‑in presets
 
-### Light themes
-
-<p>
-  <img src="assets/Default%20day.svg" alt="Default Day" width="130" />
-  <img src="assets/Paper.svg" alt="Paper" width="130" />
-  <img src="assets/Light%20Gray.svg" alt="Light Gray" width="130" />
-  <img src="assets/Warm%20Stone.svg" alt="Warm Stone" width="130" />
-</p>
-<p>
-  <img src="assets/Cream.svg" alt="Cream" width="130" />
-  <img src="assets/Parchment.svg" alt="Parchment" width="130" />
-  <img src="assets/Soft%20Parchment.svg" alt="Soft Parchment" width="130" />
-  <img src="assets/Sepia.svg" alt="Sepia" width="130" />
-</p>
-<p>
-  <img src="assets/Warm%20Sepia.svg" alt="Warm Sepia" width="130" />
-  <img src="assets/Green%20Tea.svg" alt="Green Tea" width="130" />
-  <img src="assets/Arctic.svg" alt="Arctic" width="130" />
-  <img src="assets/Cool%20Mist.svg" alt="Cool Mist" width="130" />
-</p>
-
-### Dark themes
-
-<p>
-  <img src="assets/Default%20night.svg" alt="Default Night" width="130" />
-  <img src="assets/Ink.svg" alt="Ink" width="130" />
-  <img src="assets/Mono%20Dark.svg" alt="Mono Dark" width="130" />
-  <img src="assets/Twilight.svg" alt="Twilight" width="130" />
-</p>
-<p>
-  <img src="assets/Dim%20Night.svg" alt="Dim Night" width="130" />
-  <img src="assets/Slate.svg" alt="Slate" width="130" />
-  <img src="assets/Amber%20Night.svg" alt="Amber Night" width="130" />
+<p align="center">
+  <img src="assets/Themes.png" alt="Built-in themes preview" width="600" />
 </p>
 
 ## Usage
