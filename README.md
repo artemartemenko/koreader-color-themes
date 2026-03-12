@@ -69,7 +69,7 @@ Each of the four submenus shows the same list of presets, grouped by brightness,
 ### Dark themes
 
 <p>
-  <img src="assets/Default%20Night.svg" alt="Default Night" width="130" />
+  <img src="assets/Default%20night.svg" alt="Default Night" width="130" />
   <img src="assets/Ink.svg" alt="Ink" width="130" />
   <img src="assets/Mono%20Dark.svg" alt="Mono Dark" width="130" />
   <img src="assets/Twilight.svg" alt="Twilight" width="130" />
