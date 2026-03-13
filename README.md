@@ -18,6 +18,14 @@ Tested on Android devices.
   <img src="assets/example.png" alt="Themes menu and book with Parchment theme" width="400" />
 </p>
 
+## Built‑in presets
+
+<p align="center">
+  <img src="assets/Themes.png" alt="Built-in themes preview" width="300" />
+</p>
+
+…or add your own theme via **Add theme…** in the menu.
+
 ## Installation
 
 1. Download `2-color-theme.lua`.
@@ -48,14 +56,6 @@ Each of the four submenus shows the same list of presets, grouped by brightness,
 - `Day UI – Dark themes`
 - `Night book – Dark themes`
 - `Night book – Light themes`
-
-## Built‑in presets
-
-<p align="center">
-  <img src="assets/Themes.png" alt="Built-in themes preview" width="600" />
-</p>
-
-…or add your own theme via **Add theme…** in the menu.
 
 ## Usage
 
