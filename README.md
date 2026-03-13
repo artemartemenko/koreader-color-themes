@@ -42,13 +42,13 @@ Tested on Android devices.
 
 The patch adds one main entry to the settings menu:
 
-- **Themes**
-  - **Day UI** – light/dark presets for the interface in day mode
-  - **Day book** – light/dark presets for book pages in day mode
-  - **Night UI** – dark/light presets for the interface in night mode
-  - **Night book** – dark/light presets for book pages in night mode
-  - **Add theme…** – create a custom preset
-  - **Restore themes to default** – reset to KOReader defaults  
+**Themes**
+├── **Day UI** – light/dark presets for the interface in day mode
+├── **Day book** – light/dark presets for book pages in day mode
+├── **Night UI** – dark/light presets for the interface in night mode
+├── **Night book** – dark/light presets for book pages in night mode
+├── **Add theme…** – create a custom preset
+└── **Restore themes to default** – reset to KOReader defaults  
 
 Each of the four submenus shows the same list of presets, grouped by brightness, for example:
 
