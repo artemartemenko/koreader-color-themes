@@ -75,6 +75,9 @@ Each of the four submenus shows the same list of presets, grouped by brightness,
 
 ## Support
 
-If this patch is useful to you and you'd like to support further development of KOReader-related projects, you can support me on Ko‑fi:
+If this patch is useful to you and you'd like to support further development of KOReader-related projects, you can:
+
+- star the repository on GitHub
+- or support me on Ko‑fi:
 
 [![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/artemartemenko)
