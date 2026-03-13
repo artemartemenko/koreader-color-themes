@@ -24,7 +24,7 @@ Tested on Android devices.
   <img src="assets/Themes.png" alt="Built-in themes preview" width="600" />
 </p>
 
-…or add your own theme via **Add theme…** in the menu.
+…or create your own theme via **Add theme…** in the menu.
 
 ## Installation
 
