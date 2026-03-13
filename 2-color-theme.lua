@@ -1106,8 +1106,15 @@ function ImageWidget:paintTo(bb, x, y)
         icon_bb:fill(Blitbuffer.Color8(0xFF))
         icon_bb:alphablitFrom(self._unflattened, 0, 0, 0, 0, icon_bb.w, icon_bb.h)
         icon_bb:invertRect(0, 0, icon_bb.w, icon_bb.h)
-        bb:colorblitFromRGB32(icon_bb, x, y, self._offset_x, self._offset_y, size.w, size.h, Blitbuffer.COLOR_DARK_GRAY)
+        local fgcolor = Blitbuffer.COLOR_DARK_GRAY
+        if Screen.night_mode and Screen.bb and Screen.bb.getInverse and Screen.bb:getInverse() == 1 then
+            fgcolor = fgcolor:invert()
+        end
+        bb:colorblitFromRGB32(icon_bb, x, y, self._offset_x, self._offset_y, size.w, size.h, fgcolor)
         icon_bb:free()
+    end
+    if Screen.night_mode and self.original_in_nightmode and not self.is_icon then
+        bb:invertRect(x, y, size.w, size.h)
     end
 end
 
