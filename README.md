@@ -45,12 +45,12 @@ The patch adds one main entry to the settings menu:
 <pre>
 ⚙️
 └── <b>Themes</b>
-  ├── <b>Day UI</b> – light/dark presets for the interface in day mode
-  ├── <b>Day book</b> – light/dark presets for book pages in day mode
-  ├── <b>Night UI</b> – dark/light presets for the interface in night mode
-  ├── <b>Night book</b> – dark/light presets for book pages in night mode
-  ├── <b>Add theme…</b> – create a custom preset
-  └── <b>Restore themes to default</b> – reset to KOReader defaults
+    ├── <b>Day UI</b> – light/dark presets for the interface in day mode
+    ├── <b>Day book</b> – light/dark presets for book pages in day mode
+    ├── <b>Night UI</b> – dark/light presets for the interface in night mode
+    ├── <b>Night book</b> – dark/light presets for book pages in night mode
+    ├── <b>Add theme…</b> – create a custom preset
+    └── <b>Restore themes to default</b> – reset to KOReader defaults
 </pre>
 
 Each of the four submenus shows the same list of presets, grouped by brightness, for example:
