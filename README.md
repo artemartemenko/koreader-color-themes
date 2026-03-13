@@ -44,7 +44,7 @@ The patch adds one main entry to the settings menu:
 
 ```
 ⚙️
- └──Themes
+└──Themes
   ├── Day UI – light/dark presets for the interface in day mode
   ├── Day book – light/dark presets for book pages in day mode
   ├── Night UI – dark/light presets for the interface in night mode
